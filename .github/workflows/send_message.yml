@@ -23,4 +23,4 @@ jobs:
 
       - name: Ejecutar script de Python
         run: |
-          python send_message.py  # Ajusta el nombre del script según tu configuración
+          python miApp.py  # Ajusta el nombre del script según tu configuración
